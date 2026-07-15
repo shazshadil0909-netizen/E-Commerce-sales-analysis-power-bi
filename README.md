@@ -1,13 +1,11 @@
-
-E-Commerce Sales Analysis Dashboard (Power BI)
-About the Project
+**E-Commerce Sales Analysis Dashboard (Power BI)**
+**About the Project**
 
 This project is an interactive Power BI dashboard built to analyze sales performance of an e-commerce business. It provides insights into revenue, profit, customer purchasing patterns, payment methods, product categories, and city-wise sales.
 
 The dashboard allows users to explore the data interactively and identify trends that can support business decisions.
 
-Project Objective
-
+**Project Objective**
 The objectives of this project are to:
 
 Analyze overall sales performance.
@@ -49,8 +47,7 @@ Product Sub-Category
 Key Findings
 Sales Revenue
 
-The business generated approximately 2M in total sales revenue.
-
+_The business generated approximately 2M in total sales revenue._
 Total Profit
 
 Overall profit reached approximately 37K.
@@ -94,6 +91,11 @@ Dashboard Design
 Business Analysis
 Data Visualization
 
-## Dashboard Preview
+**Dashboard Preview**
+<img width="1422" height="750" alt="ECommerce Sales Analysis" src="https://github.com/user-attachments/assets/61326ea6-33f3-4c35-840d-a3fef492acdc" />
 
-![Dashboard](Dashboard Screenshot.png)
+
+
+
+  
+This dashboard provides an overview of e-commerce sales performance by combining key business metrics with interactive visualizations. It helps identify sales trends, customer payment preferences, top-performing cities, and high-selling product categories, making it useful for monitoring business performance and supporting data-driven decisions.
