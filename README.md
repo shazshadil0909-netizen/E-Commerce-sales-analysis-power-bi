@@ -93,3 +93,7 @@ Data Modeling
 Dashboard Design
 Business Analysis
 Data Visualization
+
+## Dashboard Preview
+
+![Dashboard](Dashboard Screenshot.png)
